@@ -1,0 +1,16 @@
+{
+  "name": "perfectmanagerbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/core.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dateformat": "^3.0.2",
+    "telegraf": "^3.17.2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+    "token" : "<YOUR BOT TOKEN>",
+    "target_chat_id" : <YOUR USER ID>,
+    "logs_dir" : "log/",
+    "log_messages" : false,
+
+    "messages" : {
+                  "welcome" : "Just tell me anything and I will send it to my master.",
+                  "confirmation" : "I forwarded your message, thanks! 👍"
+                 }
+}
